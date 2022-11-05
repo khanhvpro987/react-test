@@ -1,0 +1,37 @@
+[
+	{
+        "rank": "1",
+		"name": "100 Bài Code Thiếu Nhi",
+		"type": "Album",
+		"price": "33",
+		"sold": "11192"
+	},
+	{
+        "rank": "2",
+		"name": "BTS Pictures Collection ",
+		"type": "Poster",
+		"price": "11",
+		"sold": "70098"
+	},
+	{   
+        "rank": "3",
+		"name": "Music World Tour",
+		"type": "Poster",
+		"price": "19",
+		"sold": "490839"
+	},
+	{
+        "rank": "4",
+		"name": "Dallas Concert",
+		"type": "Ticket",
+		"price": "7",
+		"sold": "10938"
+	},
+	{
+        "rank": "5",
+		"name": "Tiger Beer Festival",
+		"type": "Ticket",
+		"price": "10",
+		"sold": "9095"
+	}
+]

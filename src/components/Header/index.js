@@ -81,8 +81,11 @@ function Header() {
 	return (
 		<AppBar
 			position='static'
-			colorPrimary>
-			<Container maxWidth='xl'>
+			colorPrimary
+			sx={{ height: 100 }}>
+			<Container
+				maxWidth='xl'
+				sx={{ margin: 'auto' }}>
 				<Toolbar disableGutters>
 					<AdbIcon
 						sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }}
@@ -191,7 +194,7 @@ function Header() {
 									color: 'white',
 									display: 'block',
 									paddingX: 4,
-									':hover:': {
+									'&:hover:': {
 										backgroundColor: 'slategray',
 									},
 								}}>

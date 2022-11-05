@@ -1,15 +1,12 @@
 import * as React from 'react';
-import CssBaseline from '@mui/material/CssBaseline';
-import Container from '@mui/material/Container';
-import MediaCard from '../../components/Cards';
+import Banner from '../../components/Banner';
+import TopTrending from '../../components/TopTrending'
 
 function Home() {
 	return (
 		<React.Fragment>
-			<CssBaseline />
-			<Container maxWidth='sm'>
-                <MediaCard />
-			</Container>
+			<Banner />
+			<TopTrending />
 		</React.Fragment>
 	);
 }

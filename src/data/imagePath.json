@@ -1,0 +1,22 @@
+[
+	{
+		"label": "slide_1",
+		"path": "../../assets/images/Banner/imgSlideshow1.jpg"
+	},
+	{
+		"label": "slide_2",
+		"path": "../../assets/images/Banner/imgSlideshow2.jpg"
+	},
+	{
+		"label": "slide_3",
+		"path": "../../assets/images/Banner/imgSlideshow3.jpg"
+	},
+	{
+		"label": "slide_4",
+		"path": "../../assets/images/Banner/imgSlideshow4.jpg"
+	},
+	{
+		"label": "slide_5",
+		"path": "../../assets/images/Banner/imgSlideshow5.jpg"
+	}
+]
